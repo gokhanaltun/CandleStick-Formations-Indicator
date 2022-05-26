@@ -2,6 +2,10 @@
  
  Candle Stick Formations Indicator For TradingView
 
+ ### Warning Note:
+ It is not for generating buy-sell signals. Marks some candle formations on the chart.
+ Making a trading decision with this indicator alone can have negative consequences!
+
 ### Screenshot
 
  <img alt="CF" src="Candle-Formations.png"> </img>
@@ -48,7 +52,6 @@ pin_bar()=>
             label.new(bar_index, low, yloc = yloc.belowbar, color = color.green, style = label.style_triangleup, size = size.tiny)
 
 
-
 engulfing()=>
     
     if close > open and close[1] < open[1]
@@ -60,8 +63,6 @@ engulfing()=>
         
         if open > close[1] and close < open[1]
             label.new(bar_index, high, yloc = yloc.abovebar, color = color.red, style = label.style_triangledown, size = size.tiny)
-
-
 
 
 soldier()=>
