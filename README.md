@@ -6,6 +6,12 @@
  It is not for generating buy-sell signals. Marks some candle formations on the chart.
  Making a trading decision with this indicator alone can have negative consequences!
 
+### Formations:
+-PinBar
+-Soldier(One White Soldier, One Black Crow)
+-Engulfing
+-InBar(Insight Bar)
+
 ### Screenshot
 
  <img alt="CF" src="Candle-Formations.png"> </img>
