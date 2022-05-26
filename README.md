@@ -10,7 +10,7 @@
 -PinBar
 -Soldier(One White Soldier, One Black Crow)
 -Engulfing
--InBar(Insight Bar)
+-InBar(Inside Bar)
 
 ### Screenshot
 
