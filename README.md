@@ -7,10 +7,10 @@
  Making a trading decision with this indicator alone can have negative consequences!
 
 ### Formations:
--PinBar
--Soldier(One White Soldier, One Black Crow)
--Engulfing
--InBar(Inside Bar)
+- `PinBar`
+- `Soldier`(One White Soldier, One Black Crow)
+- `Engulfing`
+- `InBar`(Inside Bar)
 
 ### Screenshot
 
